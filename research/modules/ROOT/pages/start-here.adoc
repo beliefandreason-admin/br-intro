@@ -1,0 +1,3 @@
+= How to navigate this site
+
+How to, and introduction to structure of documents.

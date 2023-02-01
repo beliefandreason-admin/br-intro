@@ -1,0 +1,12 @@
+name: intro-index
+title: Index
+version: 2023.01
+start_page: index.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+
+nav:
+- modules/ROOT/nav.adoc
+
