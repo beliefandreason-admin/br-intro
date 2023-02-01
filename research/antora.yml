@@ -1,5 +1,5 @@
-name: intro-index
-title: Index
+name: home #intro-index
+title: Home
 version: 2023.01
 start_page: index.adoc
 asciidoc:
