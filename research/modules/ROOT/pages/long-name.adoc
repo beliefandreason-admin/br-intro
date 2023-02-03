@@ -1,0 +1,3 @@
+= A file with a very long name in the title to check nav width
+
+testing this content
