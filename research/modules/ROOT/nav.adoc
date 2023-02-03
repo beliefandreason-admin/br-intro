@@ -1,3 +1,4 @@
 * xref:index.adoc[Introduction]
 * Start Here
 ** xref:start-here.adoc[How to use this site]
+** xref:long-name.adoc[A file with a very long name in the title to test left nav width]
