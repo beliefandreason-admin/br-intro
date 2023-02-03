@@ -9,7 +9,7 @@ image::oxen-plowing4.jpg[Plowing, 640x480]
 [quote, Romans 10:14-15]
 "How, then, can they call on the one they have not believed in? And how can they believe in the one of whom they have not heard? And how can they hear without someone preaching to them? And how can they preach unless they are sent? As it is written, "How beautiful are the feet of those who bring good news!"
 
-It is my goal that these resources strengthen our faith, resolve and perseverance in Christ Jesus our Lord and that we can continue maturing together. If we are doing nothing then I hope this content drives us to do something for the kingdom of heaven. We owe it to our Lord who gave His blood for us that we might live. I sincerely hope and pray that these studies inspire and fill us with courage when sharing the gospel of Jesus. You are in my prayers! <<pp>>  
+It is my goal that these resources strengthen our faith, resolve and perseverance in Christ Jesus our Lord and that we can continue maturing together. If we are doing nothing then I hope this content drives us to do something for the kingdom of heaven. We owe it to our Lord who gave His blood for us that we might live. I sincerely hope and pray that these studies inspire and fill us with courage when sharing the gospel of Jesus. You are in my prayers! <<1>>  
 
 
 == For the [non, un, dis] believer
@@ -20,14 +20,14 @@ image::sprout-survival.jpg[New Growth, 640x480]
 [quote, Romans 1:16]
 For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.
 
-It is my goal to introduce you to Jesus and what he has done for you. It is my hope that Christ rekindles your conscience, restores and adopts you as a child of God (rather than of Satan) and renews your sense of logic, reason, and morality! You are both my target and the reason for my defense of the gospel. You are in my prayers! <<gof>>
+It is my goal to introduce you to Jesus and what he has done for you. It is my hope that Christ rekindles your conscience, restores and adopts you as a child of God (rather than of Satan) and renews your sense of logic, reason, and morality! You are both my target and the reason for my defense of the gospel. You are in my prayers! <<2>>
 
 [bibliography]
 == References
 
-* [[[pp]]] Andy Hunt & Dave Thomas. The Pragmatic Programmer:
+* [[[1]]] Andy Hunt & Dave Thomas. The Pragmatic Programmer:
 From Journeyman to Master. Addison-Wesley. 1999.
-* [[[gof,gang]]] Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides.
+* [[[2]]] Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides.
 Design Patterns: Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.
 
 
